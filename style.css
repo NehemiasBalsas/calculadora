@@ -42,9 +42,11 @@ h2{
 }
 .operacion{
     background-color: rgb(167, 92, 238);
+    color: #000;
 }
 .numero{
     background-color: rgb(206, 156, 90);
+    color: #000;
 }
 
 .contenedor-derechos{
