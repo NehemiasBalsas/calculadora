@@ -9,6 +9,15 @@ body{
     color: #fff;
 }
 
+.contenedorh1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color: #fff;
+}
+
 .calculator {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
