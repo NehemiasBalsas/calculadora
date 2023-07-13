@@ -9,13 +9,15 @@ body{
     color: #fff;
 }
 
-.contenedorh1{
+.contenedorh2{
     display: flex;
     justify-content: center;
     align-items: center;
 }
-h1{
+h2{
     color: #fff;
+    position: absolute;
+    top: 2rem;
 }
 
 .calculator {
